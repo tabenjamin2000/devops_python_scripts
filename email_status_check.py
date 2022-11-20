@@ -1,5 +1,5 @@
 ### A python code that takes user email address as input and checks it then tells the user if the email is valid or not.
-### Prerequesite - pip3 install email_validator
+### Prerequisite - pip3 install email_validator
 
 from email_validator import validate_email, EmailNotValidError
 
